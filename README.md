@@ -74,12 +74,17 @@ After commit your code, apply the changes to github repository
 ```
 - Upload your source code
 ```
->>> git push
+>>> git push --set-upstream origin <TEST>
 ```
-- After upload your code, go to the github page and make "pull request"
+- After upload your code, go to the github page and make "pull request"  
+> When you go to the repository and move to pull requests, you can check **"compare & pull request"** button on the top
+<img title="pull request" alt="pull request" src="https://github.com/jyKim-97/neuroscience_code_review/blob/main/github_pull.png">
 
+> After press the button, you can open pull request. Write title of the request and leave the comment if you have.
+>  > If you scroll down the page, you can see the file changed  
 
-
+<img title="open request1" alt="open request1" src="https://github.com/jyKim-97/neuroscience_code_review/blob/main/pull_req1.png">
+<img title="scrolling" alt="open request2" src="https://github.com/jyKim-97/neuroscience_code_review/blob/main/pull_req2.png">
 
 
 # References
