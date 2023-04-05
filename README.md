@@ -27,8 +27,9 @@ If you modified existing code or added new, add to git track and add message
 ```
 
 - check branch  
-   - concept of the branch
-   <img src=https://github.com/github/https://github.com/jyKim-97/neuroscience_code_review/github_branch_flowchart.png" width="128"/>
+<img title="concept of the branch" alt="concept of the branch" src="https://github.com/github/https://github.com/jyKim-97/neuroscience_code_review/github_branch_flowchart.png">
+
+<img src= width="128"/>
 
 ```
 >>> git branch
