@@ -1,6 +1,8 @@
 Repository to code review in Jeelab
 
-# github sync
+# Github short start
+- sync repository to your local machine  
+**! Before modification, you must run this command**
 ```
 git pull // Apply changes in repository to local machine
 ```
@@ -24,6 +26,13 @@ If you modified existing code or added new, add to git track and add message
 >>> git log // you can track the commit history
 ```
 
+- check branch  
+   - concept of the branch
+   <img src=https://github.com/github/https://github.com/jyKim-97/neuroscience_code_review/github_branch_flowchart.png" width="128"/>
+
+```
+>>> git branch
+```
 
 - You need to pull repository first
 
