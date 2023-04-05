@@ -17,6 +17,7 @@ If you modified existing code or added new, add to git track and add message
 >>> git add // apply modification to git staging area (you can run this command multiple times before commit)
 >>> git commit -m "some message" // capture the snapshot of current staging area (that you added before) with some message
 '''
+! When you commit the status, please note what you did (e.g. add some function, change variable name, optimize the code ,...)
 
 - check log
 '''
